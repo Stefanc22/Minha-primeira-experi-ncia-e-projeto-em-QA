@@ -21,4 +21,4 @@ Desenvolvimento de um sistema de checklist para garantir a qualidade e padroniza
 🚀 Maior padronização e rastreabilidade das validações.
 🚀 Integração de automação de testes para evitar erros humanos e melhorar a eficiência do QA.
 Competências: Teste de fumaça · Relatório de BUG · Teste de regressão
-<imag src= "Imagem\Image (9).png">
+<img src= "Imagem\Image (9).png">
